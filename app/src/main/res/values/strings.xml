@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoBinding</string>
+    <string name="convert">Convert</string>
+    <string name="euro_value">Euro Value</string>
+</resources>
